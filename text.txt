@@ -1,0 +1,14 @@
+
+            <!-- buyerda if authenthikate bor --> base
+
+
+
+
+<a href="{% url 'stackbase:question-lists' %}" class="btn btn-developers" style="margin-left: 5px;">Latest Questions</a>
+<!-- buyerda bor home1 -->
+
+
+login ---------->             <p>Already have an account? <a class="underlineHover" href="{% url 'login' %}">Login </a></p>
+
+profile 171 {% url 'profile_update' %}
+{% url 'stackbase:like_post' object.pk %} deatil.html 100
